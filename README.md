@@ -1,1 +1,3 @@
 # LiverSegmentationProject
+
+- Will add references, Cross-Validation, ...
