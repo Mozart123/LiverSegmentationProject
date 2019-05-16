@@ -1,6 +1,6 @@
 # LiverSegmentationProject
 
-- This project is not completed yet.
+- This project is not yet complete.
 
 In this project, liver parankima and lesions are segmented from CT scan volumes. After that, I use various diffusion filters to evaluate their effect on CNN model's performance. Main difficulties are, first, lesions occupy less than 5% of the images, creating class imbalance. Second, data is larger than my computer's memory.
 
